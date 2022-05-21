@@ -1,1 +1,4 @@
 # mynewproject
+a
+b
+c
